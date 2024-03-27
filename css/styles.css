@@ -295,8 +295,8 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.our-team-inner-item:hover .our-team-inner-link,
-.our-team-inner-item:active .our-team-inner-link {
+.our-team-inner-link:hover,
+.our-team-inner-link:focus {
   background-color: #404bbf;
 }
 /*--------------------------------------------------------*/
@@ -391,8 +391,8 @@ img {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.page-footer-inner-item:hover .page-footer-inner-link,
-.page-footer-inner-item:active .page-footer-inner-link {
+.page-footer-inner-link:hover,
+.page-footer-inner-link:focus {
   background-color: #31d0aa;
 }
 
